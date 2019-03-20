@@ -1,0 +1,48 @@
+{
+  "basics":
+  {
+    "image":"img/swetha.png",
+    "Name":"Swetha",
+    "Email":"swetha1729@gmail.com",
+    "Roll":"17699A0555",
+    "phone":"9676043690"
+  },
+  "Career":
+  {
+    "info":"I want to become an IAS officer"
+  },
+  "education":[
+    {
+      "s_no":"1",
+      "degree":"B.Tech",
+      "institute":"MITS",
+      "per":"97%"
+    },
+    {
+      "s_no":"2",
+      "degree":"Intermediate",
+      "institute":"C.N.Raju Junior College",
+      "per":"98%"
+    },
+    {
+      "s_no":"3",
+      "degree":"S.S.C",
+      "institute":"Sri Chakra High School",
+      "per":"98%"
+    }
+  ],
+  "skills":[
+  {
+    "known":"C"
+  },
+  {
+    "known":"C++"
+  },
+  {
+    "known":"java"
+  },
+  {
+    "known":"python"
+  }
+]
+}

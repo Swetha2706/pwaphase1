@@ -1,0 +1,73 @@
+body{
+    background:blue;
+  }
+  .jaanu{
+    background:orange;
+    display:flex;
+    margin: 2%;
+    padding:2%;
+    justify-content:space-around;
+  }
+.swetha{
+  background:#00FFFF;
+  padding:1%;
+  text-align: center;
+  margin: 1%;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 50px 50px 50px;
+}
+img{
+  width:100%;
+    border-radius: 50px 50px 50px;
+}
+@media only screen and (min-width:320px) and (max-width:480px) {
+body{
+  background:#ee82ee;
+}
+  .jaanu{
+    background:orange;
+    display:flex;
+    flex-direction:row;
+    margin: 2%;
+    padding:2%;
+    justify-content:space-around;
+  }
+.swetha{
+  background:#00FFFF;
+  padding:1%;
+  text-align: center;
+  margin: 1%;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 50px 50px 50px;
+}
+img{
+  width:100%;
+    border-radius: 50px 50px 50px;
+}
+}
+@media only screen and (min-width:481px) and (max-width:760px) {
+  body{
+      background:red;
+    }
+    .jaanu{
+      background:orange;
+      display:flex;
+      flex-wrap: wrap;
+      margin: 2%;
+      padding:2%;
+      justify-content:space-around;
+    }
+  .swetha{
+    background:#00FFFF;
+    padding:1%;
+    text-align: center;
+    width:40%;
+    margin: 1%;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 50px 50px 50px;
+  }
+  img{
+    width:100%;
+      border-radius: 50px 50px 50px;
+  }
+}
